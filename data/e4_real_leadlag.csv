@@ -1,0 +1,3 @@
+measure,beta_conc->futureVol,t_future,beta_vol->futureConc,t_reverse,asymmetry(t_fut - t_rev),xcorr_peak_lag
+short_intensity,0.241,17.96,0.049,2.76,15.21,2
+gross_gamma,-0.078,-5.41,-0.014,-1.04,-4.36,-20

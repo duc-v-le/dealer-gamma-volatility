@@ -1,0 +1,5 @@
+convention,firm_days,beta,t,firstF
+NET (call−put) [baseline],1358860,-0.0268,-20.72,118367.0
+CALL gamma only,1358813,-0.0235,-15.84,67204.0
+PUT gamma only,1358796,0.0155,11.64,66599.0
+GROSS (call+put),1358860,-0.0103,-7.14,61682.0

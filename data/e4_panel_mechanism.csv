@@ -1,0 +1,5 @@
+regime,firm_days,beta(net_gamma),t,firstF
+ALL (pooled),1358860,-0.0268,-20.72,118367.0
+calm (low VIX),470296,-0.0285,-15.01,51979.0
+mid VIX,447836,-0.0272,-12.71,49796.0
+stress (high VIX),440728,-0.0239,-8.64,25960.0

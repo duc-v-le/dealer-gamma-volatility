@@ -1,0 +1,5 @@
+spec,beta_c,t,first_stage,overid
+OLS  Y~c+vix,0.0654,1.67,,
+IV(Z1=calendar) Y~c|vix,1.1426,1.06,F=1.6,
+IV(Z1) GROSS gamma [recon],-0.1902,-1.63,F=62.8,not policy var
+IV(Z1,Z2) Y~c|vix,1.1417,1.09,F=1.9,J p=0.99

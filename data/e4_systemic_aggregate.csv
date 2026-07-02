@@ -1,0 +1,9 @@
+metric,value
+aggregate IV beta (mkt gamma->index vol),-0.2549
+t (HAC),-2.51
+first-stage F,126.0
+magnitude (ann index-vol pts per 1-SD mkt gamma),3.07
+avg ann index vol: low-gamma (more short) half,18.2
+avg ann index vol: high-gamma (more long) half,9.8
+vol gap (short - long) ann pts,8.4
+share of days aggregate dealers NET SHORT gamma,0.054

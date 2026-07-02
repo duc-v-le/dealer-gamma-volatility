@@ -1,0 +1,8 @@
+spec,beta,t,vix_coef,vix_t,firststage_pi1,first_stage_F
+OLS c_short|vix,0.0481,0.89,0.442,8.07,-,-
+OLS c_net|vix,-0.1546,-3.2,0.362,6.26,-,-
+OLS c_gross|vix,-0.0303,-0.85,0.471,13.45,-,-
+IV short-gamma | rolloff_net,0.2535,3.27,0.29,3.93,-0.608,138.6
+IV net-gamma   | rolloff_net,-0.1859,-3.34,0.338,5.51,0.83,1465.3
+IV gross-gamma | rolloff_gross,-0.0001,-0.0,0.477,12.48,0.552,131.9
+IV short-gamma | rolloff_share,-6.8187,-0.1,5.519,0.11,-0.003,0.0

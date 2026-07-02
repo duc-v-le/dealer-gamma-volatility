@@ -1,0 +1,17 @@
+ticker,outcome,beta(net_gamma),t_HAC,firstF
+SPX,realized_vol_5d,-0.185,-3.35,1343.0
+SPX,max_abs_ret_5d (tail),-0.232,-3.91,1343.0
+SPX,realized_var_5d,-0.191,-3.22,1356.0
+SPX,kurtosis_21d (fat tails),0.13,1.38,1249.0
+NVDA,realized_vol_5d,-0.142,-2.83,117.0
+NVDA,max_abs_ret_5d (tail),-0.142,-2.73,117.0
+NVDA,realized_var_5d,-0.147,-2.97,119.0
+NVDA,kurtosis_21d (fat tails),0.02,0.34,110.0
+TSLA,realized_vol_5d,-0.126,-3.03,293.0
+TSLA,max_abs_ret_5d (tail),-0.117,-2.75,287.0
+TSLA,realized_var_5d,-0.135,-2.94,287.0
+TSLA,kurtosis_21d (fat tails),-0.01,-0.17,251.0
+AAPL,realized_vol_5d,-0.19,-3.72,240.0
+AAPL,max_abs_ret_5d (tail),-0.207,-3.86,235.0
+AAPL,realized_var_5d,-0.191,-3.43,235.0
+AAPL,kurtosis_21d (fat tails),0.059,0.98,224.0

@@ -1,0 +1,5 @@
+ticker,n_days,dealer_short_share,beta_conc->futVol,t_HAC,xcorr_peak_lag
+SPX,2260,0.376,0.243,8.61,2
+NVDA,2260,0.193,0.088,3.54,2
+TSLA,2260,0.299,0.112,5.56,4
+AAPL,2260,0.108,0.154,6.04,2

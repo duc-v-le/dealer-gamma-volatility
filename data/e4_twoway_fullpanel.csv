@@ -1,0 +1,7 @@
+spec,firm_days,beta,t_date,t_twoway,F
+All (710 names),1358860,-0.0268,-20.74,-12.43,118389.0
+High gamma-exposure half,690085,-0.0335,-19.47,-11.05,121082.0
+Low gamma-exposure half,668775,-0.0205,-14.0,-7.49,95128.0
+Realized vol (5d),1358860,-0.0268,-20.74,-12.43,118389.0
+Tail max|ret| (5d),1358860,-0.0244,-19.09,-10.98,118389.0
+Realized variance (5d),1358860,-0.0232,-17.53,-10.08,118389.0

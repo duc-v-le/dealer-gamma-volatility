@@ -1,0 +1,4 @@
+spec,firm_days,beta,t_twoway
+all firm-days,1358860,-0.0268,-12.43
+EXCL earnings window (±7d),1126245,-0.0249,-11.78
+earnings window only,232615,-0.0292,-5.93

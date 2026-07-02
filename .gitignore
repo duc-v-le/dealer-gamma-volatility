@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Local environment file with real credentials (use .env.example as the template)
+.env
+
+# Licensed data — NEVER commit. WRDS / OptionMetrics data is not redistributable;
+# the wrds_*.py scripts rebuild it from source for users with their own access.
+data/real/
+*.parquet
+
+# LaTeX SOURCE kept local-only and backed up in its own PRIVATE repo
+# (dealer-gamma-volatility-latex). Only the built docs/code_documentation.pdf is published here.
+_latex/
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# local git helper
+sync.command

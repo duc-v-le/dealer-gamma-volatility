@@ -1,0 +1,8 @@
+spec,beta,t,first_stage_F
+OLS c_short|vix,0.0654,1.67,-
+OLS c_net|vix,-0.1292,-3.28,-
+OLS c_gross|vix,-0.0447,-1.42,-
+IV short-gamma | rolloff_net,0.1811,2.9,135.5
+IV net-gamma   | rolloff_net,-0.1329,-2.98,1443.5
+IV gross-gamma | rolloff_gross,-0.0388,-0.7,141.2
+IV short-gamma | rolloff_share,-0.5604,-0.05,0.0

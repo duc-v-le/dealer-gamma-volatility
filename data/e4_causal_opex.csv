@@ -1,0 +1,6 @@
+spec,coef,t_HAC
+first_stage_gamma~Z,-0.2364,-7.03
+reduced_form_vol~Z,0.0507,1.92
+2sls_vol~gammahat,-0.2147,-1.92
+ols_vol~gamma|VIX,-0.0507,-1.72
+first_stage_F,49.4,
